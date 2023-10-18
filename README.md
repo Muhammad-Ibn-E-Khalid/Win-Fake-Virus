@@ -15,8 +15,7 @@ To run this program, you need the following:
 
 2. Ensure that `error.vbs` and `dir.exe` are available in the program's directory.
 
-3. Compile and run the program using a C++ compiler, such as [MinGW](http://www.mingw.org/) or [Visual Studio](https://visualstudio.microsoft.com/).
-
+3. Run the program .
 4. When the program is executed, it will:
 
    - Set the console text color to green on a black background.
@@ -34,12 +33,4 @@ To run this program, you need the following:
 
 ## Important Note
 
-This program makes changes to window visibility and runs system files. Be cautious when using it and ensure it is not mistaken for malicious activity. It is recommended to use this program in a controlled environment.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to modify this README as needed and include additional details or warnings specific to your use case. Additionally, you may want to provide more details about what the `error.vbs` and `dir.exe` files are and their intended purpose.
+This program will only run in Windows.
