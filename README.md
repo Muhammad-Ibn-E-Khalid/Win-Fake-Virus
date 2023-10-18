@@ -1,4 +1,4 @@
-# Windows Program with Loop and Window Management
+# Windows Fake Virus
 
 This C++ program is designed to run a loop while managing the visibility of the current foreground window. It demonstrates how to hide the current program from the taskbar, run a loop, and open specific system files.
 
